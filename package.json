@@ -1,0 +1,28 @@
+{
+  "name": "colormaker",
+  "version": "0.1.0",
+  "description": "About",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/julienlabat/colormaker.git"
+  },
+  "keywords": [
+    "color",
+    "generative",
+    "palette",
+    "colour"
+  ],
+  "author": "Julien Labat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienlabat/colormaker/issues"
+  },
+  "homepage": "https://github.com/julienlabat/colormaker#readme"
+}
